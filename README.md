@@ -41,4 +41,8 @@ Further, each side must be larger than 0.
 * [Exception Handling](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
 * [Basic Mathematics](http://www.basic-mathematics.com/) - [Types of Triangles](http://www.basic-mathematics.com/types-of-triangles.html)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-triangle-classification/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-triangle-classification/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Triangle</p>
